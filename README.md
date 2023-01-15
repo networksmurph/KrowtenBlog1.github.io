@@ -4,7 +4,7 @@
 
 I spent a couple years on a helpdesk and  tier 2 deskside support. Then many more years as mobile technician, doing in-home service, repairs and upgrades. 
 
-Skills: Pending : Network+ / Azure / AWS / Qualys
+Pending Skills: Network+ / Azure / AWS / Qualys
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning python, hugo, linux, networking 
