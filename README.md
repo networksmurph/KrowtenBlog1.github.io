@@ -8,8 +8,8 @@ I spent a couple years on a helpdesk and  tier 2 deskside support. Then many mor
 Pending Skills: Network+ / Azure / AWS / Qualys
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning python, hugo, linux, networking 
-- 🤔 I’m looking for help with Pentesting, ethical hacking, coludsecurity 
+- 🌱 I’m currently learning Python, Hugo, Linux, networking 
+- 🤔 I’m looking for help with Pentesting, Ethical Hacking, Cloudsecurity 
 - 📫 How to reach me: networksmurph@gmail.com 
 - ⚡ Fun fact: i know nothing. And constanly trying to change that situation 
 
